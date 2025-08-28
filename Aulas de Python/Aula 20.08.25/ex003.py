@@ -1,7 +1,8 @@
 #Flíper - https://neps.academy/br/exercise/87
 
-p = int(input())
-r = int(input())
+p, r = input().split()
+p = int(p)
+r = int(r)
 
 if p == 0:
     print("C")
