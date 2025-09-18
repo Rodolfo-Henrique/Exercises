@@ -1,6 +1,6 @@
 #https://neps.academy/br/exercise/156
 
-def imprimir_intervalo_crescente(a, b):
+def main(a, b):
     """
     Imprime todos os valores inteiros entre dois números (a e b) em ordem crescente.
 
@@ -21,4 +21,4 @@ a = int(input("Digite o primeiro valor inteiro (A): "))
 b = int(input("Digite o segundo valor inteiro (B): "))
 
 # Chamada da função para imprimir o intervalo
-imprimir_intervalo_crescente(a, b)
+main(a, b)
