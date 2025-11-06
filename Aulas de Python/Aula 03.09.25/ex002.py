@@ -1,4 +1,4 @@
-#Objeto sem método construtor (__initi__)
+#Objeto sem método construtor (__init__)
 
 class A():
     def f(self):
